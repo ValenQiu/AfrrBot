@@ -1,1 +1,1 @@
-All CAD files here are using #SolidWorks 2021#
+All CAD files here are using 'SolidWorks 2021'
